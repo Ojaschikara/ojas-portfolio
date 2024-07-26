@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Bella Vita Clone",
+    "imageSrc": "projects/bellavita.png",
+    "description": "Using HTML, CSS, JavaScript, and localStorage, replicating the main features of the original website with a home page and key navigation elements.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://bella-vita-clone.vercel.app/",
+    "source": "https://github.com/Ojaschikara/Bella-Vita-clone"
+  },
+  {
+    "title": "Sugar-cosmetics",
+    "imageSrc": "projects/sugar-cosmetic.png",
+    "description": "A e-commercial site built with React, featuring a responsive design, interactive product catalog, shopping cart, and user authentication for Sugar Cosmetics.",
+    "skills": ["React","Chakra UI", "JavaScript","CSS"],
+    "demo": "https://sugar-cosmetics-pi.vercel.app/",
+    "source": "https://github.com/Ojaschikara/Sugar-Cosmetics"
+  },
+  {
+    "title": "Superhero Project",
+    "imageSrc": "projects/superhero.png",
+    "description": "A responsive HTML and CSS superhero project reimagining Mahadev as a modern-day hero, blending ancient mythology with contemporary and responsive design.",
+    "skills": ["HTML","CSS"],
+     "demo" : "https://mahadevproject.vercel.app/",
+    "source": "https://github.com/Ojaschikara/mahadevproject"
+  }
+  
+]

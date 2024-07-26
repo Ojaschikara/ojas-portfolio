@@ -5,12 +5,12 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   const downloadFile = () => {
-    const fileUrl = "hero/Mradul-Garg-Resume.pdf"
+    const fileUrl = "hero/ojas-resume.pdf"
     const newWindow = window.open(getImageUrl(fileUrl), '_blank');
     newWindow.opener = window;
     const link = document.createElement("a");
     link.href = getImageUrl(fileUrl);
-    link.download = "Mradul-Garg-resume.pdf"; 
+    link.download = "ojas-resume.pdf"; 
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

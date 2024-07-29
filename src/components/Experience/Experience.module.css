@@ -34,6 +34,7 @@
   /* flex-direction: column; */
   grid-template-rows: repeat(2,1fr) ;
   align-items: center;
+  text-align: center;
   gap: 11px;
 }
 
